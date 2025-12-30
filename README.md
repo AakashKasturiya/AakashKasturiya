@@ -1,12 +1,14 @@
 # 💫 Hi 👋, I'm Aakash Kasturiya
 **A passionate Frontend Engineer || Web developer🎯 || Designer🎨**
 
-Email Me 👉 ✉️ **aakashkasturiya@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 👨‍💻 Full Stack MERN Developer
 - 🎥 Travelling with me **@aakashkasturiyavlogs**
 - 😄 Pronouns: Kasturiya Ji
 - ⚡ Fun fact: I Love Tech and Tech Love Me
+
+Email Me 👉 ✉️ **aakashkasturiya@gmail.com** For Collaboration/Project or Anything Else and Portfolio 👉 **https://aakashkasturiya.netlify.app/**
+
 
 ## 🔗 I am a Content Creator. 😊😊
 
